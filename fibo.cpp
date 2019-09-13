@@ -1,5 +1,4 @@
 #include <iostream>
-#include <fstream>
 
 static long long int FIB[1000] = {0};
 
